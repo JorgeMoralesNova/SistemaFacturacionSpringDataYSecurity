@@ -9,5 +9,5 @@ public class SpringDataSecurityApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringDataSecurityApplication.class, args);
     }
-    
+
 }
